@@ -1,0 +1,16 @@
+.footer {
+    background-color: #f0f0f0;
+    height: 97px;
+    color: #000000;
+    font: 400 14px/24px 'Playfair Display', serif;
+    width: auto;
+}
+
+.footer-element {
+    margin: 10px;
+    color: black;
+}
+
+.footer a {
+    text-decoration: none;
+}
